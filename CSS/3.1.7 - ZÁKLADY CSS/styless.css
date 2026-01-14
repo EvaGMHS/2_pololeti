@@ -1,0 +1,33 @@
+.demo-wrap {
+   font-size: large;
+   font-family: 'Courier New', Courier, monospace;}
+
+  .box1 {
+    background-color: rgb(172, 255, 172);
+    margin: 20px;
+    border width: 10px ;
+    height: 100px ;
+    padding: 16px; 
+    display: grid;
+    place-items: center;
+  } 
+  .box2 {
+    background-color: rgb(172, 255, 172);
+    margin: 20px;
+    border width: 10px ;
+    height: 100px ;
+    padding: 16px;
+    display: grid;
+    place-items: center;
+  } 
+  .box3 {
+    background-color: rgb(172, 255, 172);
+    margin: 20px;
+    border width: 10px ;
+    height: 100px ;
+    padding: 16px;
+    display: grid;
+    place-items: center;
+  } 
+    
+    
