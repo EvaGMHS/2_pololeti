@@ -1,0 +1,28 @@
+p {
+    color: blueviolet;
+    font-size: 18px;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+body {
+    background-color: lightskyblue;
+    font-family: cursive;
+}
+div{
+    background-color: rgb(201, 235, 255);
+    color: blue;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 30px;
+
+}
+.info{
+    color: black
+}
+#Varování{
+
+    color: rgb(255, 0, 0);
+    font-family: fantasy;
+}
