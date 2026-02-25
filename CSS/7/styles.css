@@ -1,11 +1,14 @@
 HTML{
     font-size: 12pt;
+    font-family: "Cormorant Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 body {
     margin: 0;
-    padding: 0;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
+    padding: 0;}
+   
 .wrap {
     padding: 16px;
 }
@@ -20,13 +23,13 @@ a {
     border: 2px solid;
     margin: 12px;
     padding: 10px;
-    background: rgb(255, 176, 216);
+    background: rgb(206, 131, 255);
     width: 180px;
     height: 80px;
     margin-top: 80px;
 }
 .radius-box{
-    background-color: cornflowerblue;
+    background-color: rgb(7, 49, 128);
     width: 200px;
     height: 200px;
     color: aliceblue;
@@ -64,4 +67,21 @@ h3{
 p{
     font-size: 1rem;
 
+}
+.center-box{
+    background: rgb(240, 255, 157);
+    width: 50%;
+    height: 300px;
+    margin: 0 auto;
+    display: grid;
+    place-items: center;
+}
+.center-text{
+    background: rgb(128, 248, 158);
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    align-content: center;
+    margin: 0 auto;
+    
 }

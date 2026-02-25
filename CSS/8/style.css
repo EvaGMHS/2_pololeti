@@ -1,0 +1,47 @@
+body {
+    background-image: url(./aracss.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.scroll-text{
+    background-color: rgba(87, 160, 255, 0.5); 
+    width: 30%;
+    text-align: center;
+    border-radius: 20px;
+}
+.h1{
+    background: rgba(red, green, blue, alpha);
+    width: 50%;
+    text-align: center;
+    border-radius: 12px;
+    margin: 0 auto;
+}
+.alpha, .opacity {
+    padding: 16px;
+    margin: 12px;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+    max-width: 720px;
+}
+.alpha{
+    background-color: rgba(255, 255, 255, 0.9);
+}
+.opacity{
+    background-color: white;
+    opacity: 0.6;
+}
+.g{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: grid;
+    place-items: center;
+    margin: 10px auto;
+}
+.linear{
+    background-image: linear-gradient(to right, rgb(255, 102, 0), yellow);
+}
+.radial{
+    background-image: radial-gradient(rgb(255, 115, 0) 20%, yellow);
+}
