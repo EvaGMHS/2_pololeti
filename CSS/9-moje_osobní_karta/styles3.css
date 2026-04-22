@@ -1,0 +1,38 @@
+.úvod {
+    background-color: aqua;
+    border: solid rgb(212, 255, 253);
+    border-radius: 10px;
+    border-width: 10px;
+    margin: 10px;
+    text-align: center;
+    display: grid;
+}
+
+.škola {
+    background-color: aquamarine;
+    border: solid rgb(201, 248, 232);
+    border-radius: 10px;
+    border-width: 10px;
+    margin: 10px;
+    text-align: left;
+    display: grid;
+}
+.koníčky {
+background-color: rgb(140, 252, 173);
+    border: solid  rgb(198, 255, 215);
+    border-radius: 10px;
+    border-width: 10px;
+    margin: 10px;
+    text-align: left;
+    display: grid;
+}
+
+.kontakt{
+background-color: rgb(236, 253, 160);
+    border: solid  rgb(251, 255, 212);
+    border-radius: 10px;
+    border-width: 10px;
+    margin: 10px;
+    text-align: left;
+    display: grid;
+}
