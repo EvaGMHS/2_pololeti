@@ -1,0 +1,29 @@
+h1{
+    color: rgb(0, 100, 67);
+    text-align: center;
+}
+section {
+    background-color: rgb(185, 238, 220);
+    color: #000000;
+    display: grid;
+    text-align: center;
+    border: solid rgb(0, 128, 64);
+    border-width: 10px;
+    border-style: double;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 50px;
+    width: 350px;
+}
+div{
+    text-align: left;
+}
+img{
+    width: 50%;
+    border-radius: 50px;
+    place-items: center;
+    
+}
+
+    
+    

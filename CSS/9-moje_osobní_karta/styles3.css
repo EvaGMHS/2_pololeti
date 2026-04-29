@@ -6,6 +6,7 @@
     margin: 10px;
     text-align: center;
     display: grid;
+    font-family: monospace;
 }
 
 .škola {
@@ -16,6 +17,7 @@
     margin: 10px;
     text-align: left;
     display: grid;
+    font-family: monospace;
 }
 .koníčky {
 background-color: rgb(140, 252, 173);
@@ -25,6 +27,7 @@ background-color: rgb(140, 252, 173);
     margin: 10px;
     text-align: left;
     display: grid;
+    font-family: monospace;
 }
 
 .kontakt{
@@ -35,4 +38,8 @@ background-color: rgb(236, 253, 160);
     margin: 10px;
     text-align: left;
     display: grid;
+    font-family: monospace;
+}
+h2{
+    color: rgb(0, 46, 196);
 }
