@@ -1,0 +1,73 @@
+input[type="checkbox"]:checked + span {
+    color: rgb(228, 62, 103);
+    text-decoration: line-through;
+    
+}
+h2{
+    background-color: rgb(255, 192, 208);
+
+}
+li:first-child {
+    border: solid pink;
+}
+li:last-child{
+    border: solid rgb(201, 14, 76);
+}
+li:nth-child(3) {
+    background-color: rgb(255, 183, 205);
+  
+}
+button{
+    color: rgb(196, 10, 81);
+    background-color: hsl(350, 69%, 85%);
+    border: solid hsl(348, 100%, 92%);
+    border-width: 5px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: background-color 500ms,
+                transform 500ms;
+}
+.btn-demo:hover {
+    background-color: rgb(255, 243, 243);
+    transform: translateY(-5px);  }
+
+.mini-karta:hover{
+    background-color: rgb(255, 180, 202);
+    transform: translateY(-5px); 
+}
+.mini-karta{
+    border: solid rgb(0, 0, 0);
+      border-width: 2px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: background-color 500ms,
+                transform 500ms;
+
+}
+.card:hover{
+    border-color: rgb(127, 136, 255);
+    border-radius: 10px;
+    transform: translateY(-5px);
+    box-shadow: 0 14px 28px rgb(255, 163, 163);
+    transition: background-color 500ms,
+                transform 500ms;
+}
+
+.badge{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    border: solid;
+    border-color: brown;
+    color: beige;
+    
+    background-color: rgb(255, 0, 0);
+
+}

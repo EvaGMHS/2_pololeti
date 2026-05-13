@@ -2,6 +2,10 @@ h1{
     color: rgb(0, 100, 67);
     text-align: center;
 }
+
+p {
+    text-align: left;
+}
 section {
     background-color: rgb(185, 238, 220);
     color: #000000;
@@ -15,14 +19,32 @@ section {
     padding: 50px;
     width: 350px;
 }
-div{
-    text-align: left;
-}
+
+
 img{
     width: 50%;
     border-radius: 50px;
-    place-items: center;
-    
+   
+}
+button{
+    color: rgb(0, 66, 46);
+    background-color: hsl(197, 69%, 85%);
+    border: solid hsl(172, 100%, 29%);
+    border-width: 5px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: background-color 500ms,
+                transform 500ms;
+}
+ 
+
+.btn-demo:hover {
+    background-color: rgb(52, 199, 174);
+    transform: translateY(-5px);
+   
 }
 
     
