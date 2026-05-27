@@ -1,0 +1,36 @@
+.navigation a {
+    position: sticky;
+    z-index: 100;
+    text-decoration: none;
+    font-size: 15;
+    padding: 70px;
+    
+
+
+    color: rgba(0, 0, 0, 0.452);
+}
+h1{
+    font-family: monospace;
+    text-align: center;
+    background-color: rgb(255, 243, 187);
+}
+.musle{
+    text-align: center;
+    font-family: monospace;
+    
+}
+p{
+    text-align: center;
+    font-size: 12px ;
+    font-family: monospace;
+}
+button{
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 220, 146);
+}
+img{
+    width: 180px;
+    margin-right: 20px;
+}
+
